@@ -4,4 +4,4 @@ Welcome to my portfolio of Full Stack Software Engineering tasks at Tekton Const
 
 Task 1: Developed a Contact Form front and middle tier. I developed this using C#/.NET for the Web API, SendGrid for user emailing, and React.Js for the front-end. 
 
-Task 2: An integration of Organizations and their company profiles. I developed this C#/.NET for the Web API, Google Maps Api, and React.Js for the front-end. 
+Task 2: An integration of "Content" and respective profiles. I developed this C#/.NET for the Web API, Google Maps Api, and React.Js for the front-end. 
