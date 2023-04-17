@@ -1,22 +1,3 @@
-/****** Object:  StoredProcedure [dbo].[Booking_SelectById]    Script Date: 1/2/2023 10:23:08 PM ******/
-SET ANSI_NULLS ON
-GO
-SET QUOTED_IDENTIFIER ON
-GO
--- =============================================
--- Author: Joshua Flores
--- Create date: 12/23/22
--- Description: Selects a Booking by Id
--- Code Reviewer:
-
--- MODIFIED BY: 
--- MODIFIED DATE:
--- Code Reviewer:
--- Note:
--- =============================================
-
-
-
 ALTER PROC [dbo].[Booking_SelectById]
 			@Id int
 AS
