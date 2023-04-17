@@ -1,10 +1,3 @@
-/****** Object:  StoredProcedure [dbo].[Booking_Update]    Script Date: 1/2/2023 10:24:11 PM ******/
-SET ANSI_NULLS ON
-GO
-SET QUOTED_IDENTIFIER ON
-GO
-
-
 ALTER PROC [dbo].[Booking_Update]
 				@BookingType int
 				,@BookingRateType int
